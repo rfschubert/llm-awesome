@@ -8,11 +8,15 @@ Bem-vindo ao `llm-awesome`! Este repositório é uma coleção pessoal de **ferr
 
 Aqui está uma tabela com as ferramentas e serviços LLM que estou utilizando ou explorando:
 
-| Ferramenta/Serviço | Descrição | Link |
-|--------------------|-------------|------|
-| **Gitingest** | Permite gerar um arquivo para LLM processar um repositório e consultar o conteúdo dele de forma eficiente via LLM. | [https://gitingest.com/](https://gitingest.com/) |
-| (Sua próxima ferramenta aqui) | (Descrição da sua próxima ferramenta) | (Link da sua próxima ferramenta) |
+Aqui estão as sugestões de descrições para as ferramentas que você pediu, prontas para serem adicionadas à tabela do README.md do seu repositório:
 
+| Ferramenta/Serviço                         | Descrição                                                                                              | Link                                                      |
+|--------------------------------------------|--------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|
+| **Gitingest**                              | Permite gerar um arquivo para LLM processar um repositório e consultar o conteúdo dele de forma eficiente via LLM. | [https://gitingest.com/](https://gitingest.com/)          |
+| **Task Master**                            | Plataforma para automação de fluxos de trabalho e gerenciamento de tarefas com integração a IA.         | [https://www.task-master.dev/](https://www.task-master.dev/) |
+| **@merajmehrabi/puppeteer-mcp-server**     | Servidor que expõe o Puppeteer via REST API, permitindo automação de navegação web e scraping programático. | [https://www.npmjs.com/package/@merajmehrabi/puppeteer-mcp-server](https://www.npmjs.com/package/@merajmehrabi/puppeteer-mcp-server) |
+| **@upstash/context7**                      | API para armazenamento e recuperação de contexto otimizado para aplicações LLM, baseada em Redis serverless. | [https://www.npmjs.com/package/@upstash/context7](https://www.npmjs.com/package/@upstash/context7) |
+| **StageWise**                              | Ferramenta focada em planejamento e execução de projetos complexos com auxílio de IA para decomposição de tarefas. | [https://stagewise.io/](https://stagewise.io/)            |
 ---
 
 ## 💡 Como Contribuir (ou Adicionar Suas Próprias Ferramentas)
